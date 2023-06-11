@@ -1,0 +1,3 @@
+[submodule "hugo-theme-samurai"]
+	path = hugo-theme-samurai
+	url = https://github.com/ethankuoch/hugo-theme-samurai.git
